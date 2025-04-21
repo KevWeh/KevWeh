@@ -1,6 +1,6 @@
 # 💫 Kevin Wehrli | @KevWeh
 
-## 🚀 IT Support Specialist | ICT Professional SIZ® | Network & Linux Enthusiast 🐧
+## 🚀 System Administrator | ICT Professional SIZ® | Network & Linux Enthusiast 🐧
 
 ### About Me
 Hi! I'm Kevin, an ICT professional with experience in IT support. With an SIZ diploma and a passion for technology, especially in Linux and networking, I am always looking for new challenges.
